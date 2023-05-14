@@ -192,7 +192,7 @@ const SideBar = () => {
                 textDecoration: 'none',
               }}
             >
-              SORA
+              PLANETOID
             </H2>
           </NavLink>
         )}
